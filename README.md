@@ -116,6 +116,7 @@ Pipeline steps:
 ![Pipeline Demo_2](./assets/demo_pipeline2.png)
 
 ---
+
 ```markdown
 ## 📂 Project Structure
 
@@ -132,6 +133,7 @@ Pipeline steps:
 │
 └── mix
 └── det_cls.py # detection + classification pipeline
+```
 
 ---
 
