@@ -116,9 +116,10 @@ Pipeline steps:
 ![Pipeline Demo_2](./assets/demo_pipeline2.png)
 
 ---
-
+```markdown
 ## 📂 Project Structure
 
+```bash
 ├── classification
 │ ├── all # CNN training
 │ ├── data # dataset
