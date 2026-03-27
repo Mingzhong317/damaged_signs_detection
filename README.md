@@ -145,6 +145,6 @@ Pipeline steps:
 - Ultralytics YOLOv5 / YOLOv8
 
 ## Key Contributions
-✅ Multi-model comparison (ResNet-50, DenseNet-121, EfficientNet-B0, MobileNetV3-Large, VGG-16 and YOLOv8s-cls)
-✅ YOLOv5 vs YOLOv8 benchmarking
-✅ Two-stage detection-classification pipeline, output detecting pictures and json files
+- ✅ Multi-model comparison (ResNet-50, DenseNet-121, EfficientNet-B0, MobileNetV3-Large, VGG-16 and YOLOv8s-cls)
+- ✅ YOLOv5 vs YOLOv8 benchmarking
+- ✅ Two-stage detection-classification pipeline, output detecting pictures and json files
