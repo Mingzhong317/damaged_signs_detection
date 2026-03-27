@@ -18,7 +18,7 @@ This project aims to build an automated system that can:
 
 ## System Architecture
 <p align="center">
-  <img src="./assets/system_architecture.png" width="500"/>
+  <img src="./assets/system_architecture.png" width="50"/>
 </p>
 
 This **two-stage pipeline** improves classification accuracy by focusing only on detected regions.
