@@ -102,13 +102,17 @@ Pipeline steps:
 
 ### 🔹 Detection Results
 
-![Detection Demo](./assets/detection_result.png)
+<p align="center">
+  <img src="./assets/detection_result.png" width="250"/>
+</p>
 
 ---
 
 ### 🔹 Classification Results
 
-![Classification Demo](./assets/classification_result.png)
+<p align="center">
+  <img src="./assets/classification_result.png" width="250"/>
+</p>
 
 ---
 
