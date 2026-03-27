@@ -103,7 +103,7 @@ Pipeline steps:
 ### 🔹 Detection Results
 
 <p align="center">
-  <img src="./assets/detection_result.png" width="200"/>
+  <img src="./assets/detection_result.png" width="400"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@ Pipeline steps:
 ### 🔹 Classification Results
 
 <p align="center">
-  <img src="./assets/classification_result.png" width="200"/>
+  <img src="./assets/classification_result.png" width="400"/>
 </p>
 
 ---
