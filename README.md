@@ -117,10 +117,10 @@ Pipeline steps:
 
 ---
 
-```markdown
+
 ## 📂 Project Structure
 
-```bash
+```
 ├── classification
 │ ├── all # CNN training
 │ ├── data # dataset
