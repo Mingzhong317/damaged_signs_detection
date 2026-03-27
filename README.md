@@ -118,8 +118,10 @@ Pipeline steps:
 
 ### 🔹 Final Pipeline Output (Detection + Classification)
 
-![Pipeline Demo_1](./assets/demo_pipeline1.png)
-![Pipeline Demo_2](./assets/demo_pipeline2.png)
+<p align="center">
+  <img src="./assets/demo_pipeline1.png" width="650"/>
+  <img src="./assets/demo_pipeline2.png" width="650"/>
+</p>
 
 ---
 
